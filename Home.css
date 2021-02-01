@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap:wrap;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     min-height: 100vh;
     background-image: url("images/bg-image.png");
 }
