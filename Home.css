@@ -11,7 +11,7 @@ body{
     flex-wrap:wrap;
     background-repeat: no-repeat;
     min-height: 100vh;
-    background-color: navy;
+    background-image: url("images/bg-image.png");
 }
 
 h1{
@@ -51,7 +51,6 @@ section::after{
     align-items: center;
     flex-wrap:wrap;
     margin: 0;
-    background-image: url("images/bg-image.png");
 }
 
 .main{
